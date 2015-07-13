@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[if (err) throw err;]]></content>
+    <tabTrigger>ie</tabTrigger>
+    <scope>source.js</scope>
+    <description>ie</description>
+</snippet>

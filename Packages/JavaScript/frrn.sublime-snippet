@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[function(req, res, next) {
+
+	${0}
+
+	next();
+}]]></content>
+    <tabTrigger>frrn</tabTrigger>
+    <scope>source.js</scope>
+    <description>function req res next</description>
+</snippet>

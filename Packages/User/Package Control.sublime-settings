@@ -1,0 +1,39 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Codecs33",
+		"Compare Side-By-Side",
+		"ConvertToUTF8",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"GhostText",
+		"GitGutter",
+		"Http Requester",
+		"Indent XML",
+		"JavaScript Snippets",
+		"jQuery",
+		"JsFormat",
+		"Nodejs",
+		"Package Control",
+		"PackageResourceViewer",
+		"Polymer & Web Component Snippets",
+		"Pretty JSON",
+		"ReactJS",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-xmllint",
+		"Tag",
+		"Theme - Brogrammer",
+		"Theme - Nil",
+		"TrailingSpaces",
+		"Web Inspector"
+	]
+}

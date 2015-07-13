@@ -1,0 +1,3610 @@
+{
+	"folder_history":
+	[
+		"/Users/yujiangshui/test/bleeding-edge-sample-app",
+		"/Users/yujiangshui/test/react/webpack",
+		"/Users/yujiangshui/test/react/Browserify",
+		"/Users/yujiangshui/bit/huawei",
+		"/Users/yujiangshui/bit/bishe",
+		"/Users/yujiangshui/bit/appdpm2",
+		"/Users/yujiangshui/bit/apm",
+		"/Users/yujiangshui/bit/lunwen",
+		"/Users/yujiangshui/test/es6",
+		"/Users/yujiangshui/test/nodejs",
+		"/Users/yujiangshui/dev/final_bishe",
+		"/Users/yujiangshui/git/simple-share.js",
+		"/Users/yujiangshui/dev/bishe_deploy/appid4n2y8759gr",
+		"/Users/yujiangshui/test/final_bishe",
+		"/Users/yujiangshui/bit/wirterlist",
+		"/Users/yujiangshui/test/nwt",
+		"/Users/yujiangshui/bit/babynas",
+		"/Users/yujiangshui/Desktop/demo",
+		"/Users/yujiangshui/bit/appmobile",
+		"/Users/yujiangshui/bit/vhiphopmobile",
+		"/Users/yujiangshui/bit/yokky",
+		"/Users/yujiangshui/bit/vhiphop",
+		"/Users/yujiangshui/bit/yogo",
+		"/Users/yujiangshui/dev/gbk-killer/test",
+		"/Users/yujiangshui/dev/gbk-killer",
+		"/Users/yujiangshui/test/lc",
+		"/Users/yujiangshui/test/bishe",
+		"/Users/yujiangshui/test/phan",
+		"/Users/yujiangshui/bit/bishe_style",
+		"/Users/yujiangshui/test/nw",
+		"/Users/yujiangshui/test/qx-chat",
+		"/Users/yujiangshui/test/spoe",
+		"/Users/yujiangshui/test/epso",
+		"/Users/yujiangshui/test/socket",
+		"/Users/yujiangshui/test/node-login",
+		"/Users/yujiangshui/test/yourNewApp",
+		"/Users/yujiangshui/test/polymer",
+		"/Users/yujiangshui/test/firebase",
+		"/Users/yujiangshui/test/vue",
+		"/Users/yujiangshui/test/simplegit-progit",
+		"/Users/yujiangshui/Desktop/single-page-app",
+		"/Users/yujiangshui/dev/vagrant",
+		"/Users/yujiangshui/dev/readable",
+		"/Users/yujiangshui/dev/my-airpub-blog",
+		"/Users/yujiangshui/git/yjsblog",
+		"/Users/yujiangshui/dev/duoshuoapi",
+		"/Users/yujiangshui/dev/Polymer-test",
+		"/Users/yujiangshui/git/test-webview",
+		"/Users/yujiangshui/Library/Application Support/Google/Chrome/Default/Extensions/aapbdbdomjkkjkaonfhkkikfgjllcleb/2.0.0_0",
+		"/Users/yujiangshui/dev/aralejs",
+		"/Users/yujiangshui/bit/dazhong-mb",
+		"/Users/yujiangshui/bit/dazhong",
+		"/Users/yujiangshui/dev/rest-api",
+		"/Users/yujiangshui/dev/bear",
+		"/Users/yujiangshui/dev/eapp4",
+		"/Users/yujiangshui/dev/bishe",
+		"/Users/yujiangshui/Desktop/h5bp-mobile-boilerplate-15bb044",
+		"/Users/yujiangshui/dev/simple-todos",
+		"/Users/yujiangshui/dev/node-webkit",
+		"/Users/yujiangshui/git/bookmark-tool-loader",
+		"/Users/yujiangshui/dev/hexo",
+		"/Users/yujiangshui/git/jupe.css",
+		"/Users/yujiangshui/git/hexo",
+		"/Users/yujiangshui/git/hexo/themes/jiangshui-simple",
+		"/Users/yujiangshui/bit/fashion-vc-v2-html",
+		"/Users/yujiangshui/dev/hualizhi",
+		"/Users/yujiangshui/dev/meizhuang",
+		"/Users/yujiangshui/dev/heroku/node-js-getting-started",
+		"/Users/yujiangshui/git/w3c-read-easy",
+		"/Users/yujiangshui/git/sublime-text-3-miji"
+	],
+	"last_version": 3083,
+	"last_window_id": 190,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 755.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"block"
+					],
+					[
+						"ti",
+						"ti:-	text-indent:-"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"slid",
+						"slideDown"
+					],
+					[
+						"ova",
+						"ovx-a	overflow-x: auto;"
+					],
+					[
+						"bgpo",
+						"background-position"
+					],
+					[
+						"offset",
+						"offsetTop	(?)"
+					],
+					[
+						"offtop",
+						"offsetTop	(?)"
+					],
+					[
+						"cyp",
+						"cypp_pp"
+					],
+					[
+						"ste-d",
+						"step-div"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"h",
+						"hidden"
+					],
+					[
+						"anim",
+						"animate	.animate()"
+					],
+					[
+						"ov",
+						"ovx	overflow-x: ${1:hidden};"
+					],
+					[
+						"httprequest",
+						"http.request(options, cb);"
+					],
+					[
+						"borco",
+						"border-color"
+					],
+					[
+						"fr",
+						"fr	Function"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"oldInter",
+						"oldInterface"
+					],
+					[
+						"di",
+						"d-i	display: inline;"
+					],
+					[
+						"data-u",
+						"data-rules"
+					],
+					[
+						"CO",
+						"color"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"ich",
+						"icheckbox-block"
+					],
+					[
+						"each",
+						"each	.each()"
+					],
+					[
+						"f",
+						"f	Anonymous Function"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"next",
+						"next	.next"
+					],
+					[
+						"ex",
+						"excelObj"
+					],
+					[
+						"Mo",
+						"motlowdregular"
+					],
+					[
+						"pre-",
+						"pre-menu-item"
+					],
+					[
+						"searfi",
+						"searchFilters"
+					],
+					[
+						"lsy",
+						"list-style-type"
+					],
+					[
+						"mic",
+						"Microsoft"
+					],
+					[
+						"touc",
+						"touchstart"
+					],
+					[
+						"sim",
+						"Simsun"
+					],
+					[
+						"tal",
+						"ta-l	text-align: left;"
+					],
+					[
+						"re",
+						"repeat-x"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"borderco",
+						"border-color"
+					],
+					[
+						"v",
+						"visibility"
+					],
+					[
+						"lsp",
+						"letter-spacing"
+					],
+					[
+						"mah",
+						"max-height"
+					],
+					[
+						"y",
+						"YYHdata"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"e",
+						"e3e3e3"
+					],
+					[
+						"bg",
+						"background"
+					],
+					[
+						"bb",
+						"border-bottom"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"fs",
+						"font-size"
+					],
+					[
+						"tall",
+						"table-layout"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "pi",
+				"selected_items":
+				[
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"fj",
+						"Format: Javascript"
+					],
+					[
+						"sj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"scsss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"scs",
+						"Set Syntax: CSS"
+					],
+					[
+						"td",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"pr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pl",
+						"Package Control: List Packages"
+					],
+					[
+						"tsd",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"sjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sh",
+						"Set Syntax: HTML"
+					],
+					[
+						"pjf",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"fjs",
+						"Format: Javascript"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"sjso",
+						"Set Syntax: JSON"
+					],
+					[
+						"fo",
+						"Format: Javascript"
+					],
+					[
+						"pro",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"smk",
+						"Set Syntax: Markdown"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"Snippet: ",
+						"Snippet: if … else"
+					],
+					[
+						"gitsta",
+						"Git: Status"
+					],
+					[
+						"git: sta",
+						"Git: Status"
+					],
+					[
+						"sc",
+						"Set Syntax: CSS"
+					],
+					[
+						"",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"s",
+						"Set Syntax: Markdown"
+					],
+					[
+						"SJ",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"s c",
+						"Set Syntax: CSS"
+					],
+					[
+						"s c s",
+						"Set Syntax: CSS"
+					],
+					[
+						"SCS",
+						"Set Syntax: CSS"
+					],
+					[
+						"j s j",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"sjavs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sjav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"se t",
+						"Set Syntax: Textile"
+					],
+					[
+						"sht",
+						"Set Syntax: HTML"
+					],
+					[
+						"shtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"sx",
+						"Set Syntax: XTpl"
+					],
+					[
+						"shtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"sxtpl",
+						"Set Syntax: XTpl"
+					],
+					[
+						"sxt",
+						"Set Syntax: XTpl"
+					],
+					[
+						"sxtp",
+						"Set Syntax: XTpl"
+					],
+					[
+						"p l",
+						"Package Control: List Packages"
+					],
+					[
+						"p c",
+						"Package Control: Install Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"shm",
+						"Set Syntax: HTML"
+					],
+					[
+						"sh m",
+						"Set Syntax: HTML"
+					],
+					[
+						"sthml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sh t",
+						"Set Syntax: HTML"
+					],
+					[
+						"sj a",
+						"Set Syntax: Java"
+					],
+					[
+						"sjavsc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sjava",
+						"Set Syntax: Java"
+					],
+					[
+						"shml",
+						"Set Syntax: HTML"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"csc",
+						"Convert Case: Swap Case"
+					],
+					[
+						"cs",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s c s s",
+						"Set Syntax: CSS"
+					],
+					[
+						"c s",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s j s",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ssc",
+						"Set Syntax: C"
+					],
+					[
+						"s java s",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"se j",
+						"Set Syntax: JSON"
+					],
+					[
+						"mpcc",
+						"Markdown Preview: Python Markdown: Copy to Clipboard"
+					],
+					[
+						"mpc",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"mpb",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"smd",
+						"Set Syntax: Markdown"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 159.0,
+				"history":
+				[
+					"print a",
+					"a = 1",
+					"var a = 1;",
+					"python",
+					"-h",
+					"l",
+					"help()",
+					"help",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"-h",
+					"h",
+					"help",
+					"console"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/yujiangshui/bit/huawei/style.css",
+				"/Users/yujiangshui/bit/huawei/scss/_custom.scss",
+				"/Users/yujiangshui/bit/appdpm2/html/index.html",
+				"/Users/yujiangshui/bit/appdpm2/html/cat.html",
+				"/Users/yujiangshui/bit/appdpm2/scss/_var.scss",
+				"/Users/yujiangshui/bit/appdpm2/scss/_flexslider.scss",
+				"/Users/yujiangshui/bit/appdpm2/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/style.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/index.html",
+				"/Users/yujiangshui/dev/hualizhi/html/single.html",
+				"/Users/yujiangshui/dev/hualizhi/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/js/global.js",
+				"/Users/yujiangshui/Desktop/global.js",
+				"/Users/yujiangshui/dev/hualizhi/style.css",
+				"/Users/yujiangshui/Desktop/style.css",
+				"/Users/yujiangshui/dev/hualizhi/scss/_var.scss",
+				"/Users/yujiangshui/Desktop/hualizhi/style.css",
+				"/Users/yujiangshui/git/ysass/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/package.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript Snippets/vanilla.console_log.sublime-snippet",
+				"/Users/yujiangshui/dev/hualizhi/html/brand.html",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/yujiangshui/dev/hualizhi/scss/_typo.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/zhuanti.html",
+				"/Users/yujiangshui/dev/hualizhi/scss/_flexslider.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/cat.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt/lib/grunt/help.js",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Emmet/emmet/snippets.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/SCSS/snippets/@for.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/SCSS/SCSS.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Emmet/emmet/pyv8loader.py",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/float_left.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/bottom_auto.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/float.tmSnippet",
+				"/Users/yujiangshui/bit/ep/html/index.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-connect/node_modules/portscanner/node_modules/async/test/test.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-connect/node_modules/portscanner/lib/portscanner.js",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/zlib-browserify/node_modules/tape/test/plan_optional.js",
+				"/Users/yujiangshui/dev/meizhuang/scss/_custom.scss",
+				"/Users/yujiangshui/Desktop/meizhuang/js/global.js",
+				"/Users/yujiangshui/dev/meizhuang/js/global.js",
+				"/Users/yujiangshui/dev/meizhuang/html/index.html",
+				"/Users/yujiangshui/dev/meizhuang/html/post.html",
+				"/Users/yujiangshui/dev/meizhuang/scss/_flexslider.scss",
+				"/Users/yujiangshui/dev/meizhuang/html/test.html",
+				"/Users/yujiangshui/Desktop/iscroll-master/demos/simple/index.html",
+				"/Users/yujiangshui/dev/meizhuang/js/plugins/hammer.min.js",
+				"/Users/yujiangshui/dev/meizhuang/scss/_var.scss",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/if.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/if-___-else.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/function.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/function-(fun).sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/for-()-{}.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/for-()-{}-(faster).sublime-snippet",
+				"/Users/yujiangshui/git/ysass/js/global.js",
+				"/Users/yujiangshui/Desktop/in.html",
+				"/Users/yujiangshui/dev/meizhuang/style.scss",
+				"/Users/yujiangshui/dev/heroku/index.html",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/Object-Method.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Tag/Close Tag On Slash/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/dev/projects/w3cre.sublime-project",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/yujiangshui/Desktop/jquery-1.11.2.min.js",
+				"/Users/yujiangshui/Desktop/sublime bk/Packages/User/Preferences.sublime-settings",
+				"/Users/yujiangshui/git/smsGateway/index.js",
+				"/Users/yujiangshui/git/smsGateway/package.json",
+				"/Users/yujiangshui/git/smsGateway/tests/device.js",
+				"/Users/yujiangshui/git/smsGateway.sublime-project",
+				"/Users/yujiangshui/Desktop/HTML/html.sublime-snippet",
+				"/Users/yujiangshui/dev/sms/node/node_modules/smsgateway/index.js",
+				"/Users/yujiangshui/dev/sms/node/sms.js",
+				"/Users/yujiangshui/bit/fashion-vc-v2-html/style.css",
+				"/Users/yujiangshui/dev/filejs/in.html",
+				"/Users/yujiangshui/dev/sms/sms.php",
+				"/Users/yujiangshui/dev/microblog/routes/index.js",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/dev/sms/sms.js",
+				"/Users/yujiangshui/dev/sms/node_modules/smsgateway/index.js",
+				"/Users/yujiangshui/dev/sms/package.json",
+				"/Users/yujiangshui/dev/microblog/public/stylesheets/style.css",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/readable-stream/lib/_stream_transform.js",
+				"/Users/yujiangshui/dev/microblog/settings.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/express/LICENSE",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/line_count.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/body-parser/HISTORY.md",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/readable-stream/node_modules/inherits/inherits.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/line_count.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/bson/node_modules/nan/appveyor.yml",
+				"/Users/yujiangshui/dev/microblog/app.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/concat-strings.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/lib/mongodb/commands/kill_cursor_command.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/lib/mongodb/command_cursor.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/component.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript & NodeJS Snippets/node-function-req-res-next.sublime-snippet",
+				"/Users/yujiangshui/dev/microblog/views/reg.ejs",
+				"/Users/yujiangshui/dev/microblog/views/index.ejs",
+				"/Users/yujiangshui/bit/huawei/honor6/index.html",
+				"/Users/yujiangshui/dev/microblog/views/error.ejs",
+				"/Users/yujiangshui/dev/microblog/package.json",
+				"/Users/yujiangshui/dev/microblog/models/db.js",
+				"/Users/yujiangshui/dev/microblog/routes/hello.js",
+				"/Users/yujiangshui/.bash_profile",
+				"/Users/yujiangshui/dev/microblog/views/layout.ejs",
+				"/Users/yujiangshui/bit/huawei/gitignore",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Theme - Brogrammer/brogrammer.tmTheme",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/bh_unicode_properties.cache",
+				"/Users/yujiangshui/Sites/chisha/index/js/router.js",
+				"/Users/yujiangshui/Sites/chisha/index/scss/_custom.scss",
+				"/Users/yujiangshui/Sites/chisha/index/scss/_var.scss",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/pcapp/AppView.js",
+				"/Users/yujiangshui/Sites/chisha/index/templates/pcapp/recipeTemplate.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/models/RecipeModel.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/collections/RecipeCollection.js",
+				"/Users/yujiangshui/bit/huawei/html/home.html",
+				"/Users/yujiangshui/Sites/chisha/index/templates/home/homeTemplate.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/appjs/homejs.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/global/GlobalView.js",
+				"/Users/yujiangshui/Sites/chisha/index/index.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/home/HomeView.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/models/recipeModel.js"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 100.0,
+				"where_history":
+				[
+					"/Users/yujiangshui/bit/space,/Users/yujiangshui/bit/space-oldbk-09",
+					"/Users/yujiangshui/bit/space",
+					"/Users/yujiangshui/bit/ep",
+					"/Users/yujiangshui/bit/space/wp-content/themes/space",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pi-cats",
+					".dropdown-menu",
+					".dropdown-menu ",
+					"没有更多",
+					"background-position",
+					"icon-search",
+					"transform",
+					"1000",
+					"data",
+					"'",
+					"i",
+					"Things",
+					"event.preventDefault();",
+					"href",
+					"data-char",
+					".section-menu .section'",
+					"logo",
+					"/li>",
+					"li",
+					"b",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"font-size",
+					"se ma",
+					"<a href=\"#\">",
+					"10px",
+					"font-family",
+					"section-menu",
+					"11px",
+					"wot",
+					"placeholder-color",
+					"top",
+					"top: -2px;",
+					"icon-brand",
+					"div",
+					"span",
+					"44px",
+					".logo",
+					"LucidaGrandeUI",
+					"hi-img",
+					"span",
+					"133333333",
+					"8",
+					"4px",
+					"8px",
+					"11px",
+					"menu",
+					"menu-line",
+					"88px",
+					"\"",
+					"Method",
+					"content",
+					"subli",
+					"drag",
+					"dragstart",
+					"-100",
+					"http://yujiangshui.com",
+					"$",
+					"key",
+					"s",
+					"sea",
+					"search",
+					"function",
+					"source",
+					"_smq",
+					"vars",
+					"path",
+					"preview",
+					"btn",
+					"d ",
+					"s",
+					"heiti",
+					"item-text",
+					"ite",
+					"menu",
+					"gif",
+					"logo",
+					"images",
+					"album",
+					"#foot",
+					".js",
+					"jsjs",
+					"j's",
+					"#foot",
+					"#footer",
+					"btn-colorred",
+					"nav-new",
+					"pro-wrap",
+					"pro-item",
+					"span",
+					"single-elise-16_files",
+					"single-elise-interior_files",
+					"single-elise-options_files",
+					"menu .sm-links",
+					"pro-title",
+					"div",
+					"span",
+					"h2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Microsoft YaHei",
+					"Microsoft Yahei",
+					"emptyerror",
+					"empty",
+					"timeline-content2.jpg",
+					"konw-more"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 104.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"appvy",
+						"node_modules/mongodb/node_modules/bson/node_modules/nan/appveyor.yml"
+					],
+					[
+						"glo",
+						"js/global.js"
+					],
+					[
+						"",
+						"bit/fashion-vc-v2-html/js/global.js"
+					],
+					[
+						"sc",
+						"/Users/yujiangshui/dev/jack/html/scss/_custom.scss"
+					],
+					[
+						"scs",
+						"/Users/yujiangshui/dev/jack/html/style.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"meizhuang",
+						"~/dev/projects/meizhuang.sublime-project"
+					],
+					[
+						"",
+						"~/dev/projects/hualiji.sublime-project"
+					],
+					[
+						"hua",
+						"~/dev/projects/huawei.sublime-project"
+					],
+					[
+						"su",
+						"~/Desktop/sublimemiji.sublime-workspace"
+					],
+					[
+						"p",
+						"~/git/smsGateway.sublime-workspace"
+					],
+					[
+						"po",
+						"~/Sites/polymer/polymer.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 170.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1240.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"block"
+					],
+					[
+						"ti",
+						"ti:-	text-indent:-"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"slid",
+						"slideDown"
+					],
+					[
+						"ova",
+						"ovx-a	overflow-x: auto;"
+					],
+					[
+						"bgpo",
+						"background-position"
+					],
+					[
+						"offset",
+						"offsetTop	(?)"
+					],
+					[
+						"offtop",
+						"offsetTop	(?)"
+					],
+					[
+						"cyp",
+						"cypp_pp"
+					],
+					[
+						"ste-d",
+						"step-div"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"h",
+						"hidden"
+					],
+					[
+						"anim",
+						"animate	.animate()"
+					],
+					[
+						"ov",
+						"ovx	overflow-x: ${1:hidden};"
+					],
+					[
+						"httprequest",
+						"http.request(options, cb);"
+					],
+					[
+						"borco",
+						"border-color"
+					],
+					[
+						"fr",
+						"fr	Function"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"oldInter",
+						"oldInterface"
+					],
+					[
+						"di",
+						"d-i	display: inline;"
+					],
+					[
+						"data-u",
+						"data-rules"
+					],
+					[
+						"CO",
+						"color"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"ich",
+						"icheckbox-block"
+					],
+					[
+						"each",
+						"each	.each()"
+					],
+					[
+						"f",
+						"f	Anonymous Function"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"next",
+						"next	.next"
+					],
+					[
+						"ex",
+						"excelObj"
+					],
+					[
+						"Mo",
+						"motlowdregular"
+					],
+					[
+						"pre-",
+						"pre-menu-item"
+					],
+					[
+						"searfi",
+						"searchFilters"
+					],
+					[
+						"lsy",
+						"list-style-type"
+					],
+					[
+						"mic",
+						"Microsoft"
+					],
+					[
+						"touc",
+						"touchstart"
+					],
+					[
+						"sim",
+						"Simsun"
+					],
+					[
+						"tal",
+						"ta-l	text-align: left;"
+					],
+					[
+						"re",
+						"repeat-x"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"borderco",
+						"border-color"
+					],
+					[
+						"v",
+						"visibility"
+					],
+					[
+						"lsp",
+						"letter-spacing"
+					],
+					[
+						"mah",
+						"max-height"
+					],
+					[
+						"y",
+						"YYHdata"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"e",
+						"e3e3e3"
+					],
+					[
+						"bg",
+						"background"
+					],
+					[
+						"bb",
+						"border-bottom"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"fs",
+						"font-size"
+					],
+					[
+						"tall",
+						"table-layout"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/yujiangshui/test/react/webpack/package.json",
+					"settings":
+					{
+						"buffer_size": 641,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/yujiangshui/test/react/webpack/webpack.config.js",
+					"settings":
+					{
+						"buffer_size": 370,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/yujiangshui/test/react/webpack/app.js",
+					"settings":
+					{
+						"buffer_size": 105,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/yujiangshui/test/react/webpack/logo.js",
+					"settings":
+					{
+						"buffer_size": 211,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/yujiangshui/test/react/webpack/index.html",
+					"settings":
+					{
+						"buffer_size": 175,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/yujiangshui/test/react/webpack/logo.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "pi",
+				"selected_items":
+				[
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"fj",
+						"Format: Javascript"
+					],
+					[
+						"sj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"scsss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"scs",
+						"Set Syntax: CSS"
+					],
+					[
+						"td",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"pr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pl",
+						"Package Control: List Packages"
+					],
+					[
+						"tsd",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"sjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sh",
+						"Set Syntax: HTML"
+					],
+					[
+						"pjf",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"fjs",
+						"Format: Javascript"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"sjso",
+						"Set Syntax: JSON"
+					],
+					[
+						"fo",
+						"Format: Javascript"
+					],
+					[
+						"pro",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"smk",
+						"Set Syntax: Markdown"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"Snippet: ",
+						"Snippet: if … else"
+					],
+					[
+						"gitsta",
+						"Git: Status"
+					],
+					[
+						"git: sta",
+						"Git: Status"
+					],
+					[
+						"sc",
+						"Set Syntax: CSS"
+					],
+					[
+						"",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"s",
+						"Set Syntax: Markdown"
+					],
+					[
+						"SJ",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"s c",
+						"Set Syntax: CSS"
+					],
+					[
+						"s c s",
+						"Set Syntax: CSS"
+					],
+					[
+						"SCS",
+						"Set Syntax: CSS"
+					],
+					[
+						"j s j",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"sjavs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sjav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"se t",
+						"Set Syntax: Textile"
+					],
+					[
+						"sht",
+						"Set Syntax: HTML"
+					],
+					[
+						"shtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"sx",
+						"Set Syntax: XTpl"
+					],
+					[
+						"shtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"sxtpl",
+						"Set Syntax: XTpl"
+					],
+					[
+						"sxt",
+						"Set Syntax: XTpl"
+					],
+					[
+						"sxtp",
+						"Set Syntax: XTpl"
+					],
+					[
+						"p l",
+						"Package Control: List Packages"
+					],
+					[
+						"p c",
+						"Package Control: Install Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"shm",
+						"Set Syntax: HTML"
+					],
+					[
+						"sh m",
+						"Set Syntax: HTML"
+					],
+					[
+						"sthml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sh t",
+						"Set Syntax: HTML"
+					],
+					[
+						"sj a",
+						"Set Syntax: Java"
+					],
+					[
+						"sjavsc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sjava",
+						"Set Syntax: Java"
+					],
+					[
+						"shml",
+						"Set Syntax: HTML"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"csc",
+						"Convert Case: Swap Case"
+					],
+					[
+						"cs",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s c s s",
+						"Set Syntax: CSS"
+					],
+					[
+						"c s",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s j s",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ssc",
+						"Set Syntax: C"
+					],
+					[
+						"s java s",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"se j",
+						"Set Syntax: JSON"
+					],
+					[
+						"mpcc",
+						"Markdown Preview: Python Markdown: Copy to Clipboard"
+					],
+					[
+						"mpc",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"mpb",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"smd",
+						"Set Syntax: Markdown"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 159.0,
+				"history":
+				[
+					"print a",
+					"a = 1",
+					"var a = 1;",
+					"python",
+					"-h",
+					"l",
+					"help()",
+					"help",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"-h",
+					"h",
+					"help",
+					"console"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/yujiangshui/test/react/webpack"
+			],
+			"file_history":
+			[
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/yujiangshui/bit/huawei/style.css",
+				"/Users/yujiangshui/bit/huawei/scss/_custom.scss",
+				"/Users/yujiangshui/bit/appdpm2/html/index.html",
+				"/Users/yujiangshui/bit/appdpm2/html/cat.html",
+				"/Users/yujiangshui/bit/appdpm2/scss/_var.scss",
+				"/Users/yujiangshui/bit/appdpm2/scss/_flexslider.scss",
+				"/Users/yujiangshui/bit/appdpm2/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/style.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/index.html",
+				"/Users/yujiangshui/dev/hualizhi/html/single.html",
+				"/Users/yujiangshui/dev/hualizhi/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/js/global.js",
+				"/Users/yujiangshui/Desktop/global.js",
+				"/Users/yujiangshui/dev/hualizhi/style.css",
+				"/Users/yujiangshui/Desktop/style.css",
+				"/Users/yujiangshui/dev/hualizhi/scss/_var.scss",
+				"/Users/yujiangshui/Desktop/hualizhi/style.css",
+				"/Users/yujiangshui/git/ysass/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/package.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript Snippets/vanilla.console_log.sublime-snippet",
+				"/Users/yujiangshui/dev/hualizhi/html/brand.html",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/yujiangshui/dev/hualizhi/scss/_typo.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/zhuanti.html",
+				"/Users/yujiangshui/dev/hualizhi/scss/_flexslider.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/cat.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt/lib/grunt/help.js",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Emmet/emmet/snippets.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/SCSS/snippets/@for.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/SCSS/SCSS.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Emmet/emmet/pyv8loader.py",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/float_left.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/bottom_auto.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/float.tmSnippet",
+				"/Users/yujiangshui/bit/ep/html/index.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-connect/node_modules/portscanner/node_modules/async/test/test.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-connect/node_modules/portscanner/lib/portscanner.js",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/zlib-browserify/node_modules/tape/test/plan_optional.js",
+				"/Users/yujiangshui/dev/meizhuang/scss/_custom.scss",
+				"/Users/yujiangshui/Desktop/meizhuang/js/global.js",
+				"/Users/yujiangshui/dev/meizhuang/js/global.js",
+				"/Users/yujiangshui/dev/meizhuang/html/index.html",
+				"/Users/yujiangshui/dev/meizhuang/html/post.html",
+				"/Users/yujiangshui/dev/meizhuang/scss/_flexslider.scss",
+				"/Users/yujiangshui/dev/meizhuang/html/test.html",
+				"/Users/yujiangshui/Desktop/iscroll-master/demos/simple/index.html",
+				"/Users/yujiangshui/dev/meizhuang/js/plugins/hammer.min.js",
+				"/Users/yujiangshui/dev/meizhuang/scss/_var.scss",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/if.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/if-___-else.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/function.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/function-(fun).sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/for-()-{}.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/for-()-{}-(faster).sublime-snippet",
+				"/Users/yujiangshui/git/ysass/js/global.js",
+				"/Users/yujiangshui/Desktop/in.html",
+				"/Users/yujiangshui/dev/meizhuang/style.scss",
+				"/Users/yujiangshui/dev/heroku/index.html",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/Object-Method.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Tag/Close Tag On Slash/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/dev/projects/w3cre.sublime-project",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/yujiangshui/Desktop/jquery-1.11.2.min.js",
+				"/Users/yujiangshui/Desktop/sublime bk/Packages/User/Preferences.sublime-settings",
+				"/Users/yujiangshui/git/smsGateway/index.js",
+				"/Users/yujiangshui/git/smsGateway/package.json",
+				"/Users/yujiangshui/git/smsGateway/tests/device.js",
+				"/Users/yujiangshui/git/smsGateway.sublime-project",
+				"/Users/yujiangshui/Desktop/HTML/html.sublime-snippet",
+				"/Users/yujiangshui/dev/sms/node/node_modules/smsgateway/index.js",
+				"/Users/yujiangshui/dev/sms/node/sms.js",
+				"/Users/yujiangshui/bit/fashion-vc-v2-html/style.css",
+				"/Users/yujiangshui/dev/filejs/in.html",
+				"/Users/yujiangshui/dev/sms/sms.php",
+				"/Users/yujiangshui/dev/microblog/routes/index.js",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/dev/sms/sms.js",
+				"/Users/yujiangshui/dev/sms/node_modules/smsgateway/index.js",
+				"/Users/yujiangshui/dev/sms/package.json",
+				"/Users/yujiangshui/dev/microblog/public/stylesheets/style.css",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/readable-stream/lib/_stream_transform.js",
+				"/Users/yujiangshui/dev/microblog/settings.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/express/LICENSE",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/line_count.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/body-parser/HISTORY.md",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/readable-stream/node_modules/inherits/inherits.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/line_count.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/bson/node_modules/nan/appveyor.yml",
+				"/Users/yujiangshui/dev/microblog/app.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/concat-strings.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/lib/mongodb/commands/kill_cursor_command.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/lib/mongodb/command_cursor.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/component.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript & NodeJS Snippets/node-function-req-res-next.sublime-snippet",
+				"/Users/yujiangshui/dev/microblog/views/reg.ejs",
+				"/Users/yujiangshui/dev/microblog/views/index.ejs",
+				"/Users/yujiangshui/bit/huawei/honor6/index.html",
+				"/Users/yujiangshui/dev/microblog/views/error.ejs",
+				"/Users/yujiangshui/dev/microblog/package.json",
+				"/Users/yujiangshui/dev/microblog/models/db.js",
+				"/Users/yujiangshui/dev/microblog/routes/hello.js",
+				"/Users/yujiangshui/.bash_profile",
+				"/Users/yujiangshui/dev/microblog/views/layout.ejs",
+				"/Users/yujiangshui/bit/huawei/gitignore",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Theme - Brogrammer/brogrammer.tmTheme",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/bh_unicode_properties.cache",
+				"/Users/yujiangshui/Sites/chisha/index/js/router.js",
+				"/Users/yujiangshui/Sites/chisha/index/scss/_custom.scss",
+				"/Users/yujiangshui/Sites/chisha/index/scss/_var.scss",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/pcapp/AppView.js",
+				"/Users/yujiangshui/Sites/chisha/index/templates/pcapp/recipeTemplate.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/models/RecipeModel.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/collections/RecipeCollection.js",
+				"/Users/yujiangshui/bit/huawei/html/home.html",
+				"/Users/yujiangshui/Sites/chisha/index/templates/home/homeTemplate.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/appjs/homejs.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/global/GlobalView.js",
+				"/Users/yujiangshui/Sites/chisha/index/index.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/home/HomeView.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/models/recipeModel.js"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 100.0,
+				"where_history":
+				[
+					"/Users/yujiangshui/bit/space,/Users/yujiangshui/bit/space-oldbk-09",
+					"/Users/yujiangshui/bit/space",
+					"/Users/yujiangshui/bit/ep",
+					"/Users/yujiangshui/bit/space/wp-content/themes/space",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pi-cats",
+					".dropdown-menu",
+					".dropdown-menu ",
+					"没有更多",
+					"background-position",
+					"icon-search",
+					"transform",
+					"1000",
+					"data",
+					"'",
+					"i",
+					"Things",
+					"event.preventDefault();",
+					"href",
+					"data-char",
+					".section-menu .section'",
+					"logo",
+					"/li>",
+					"li",
+					"b",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"font-size",
+					"se ma",
+					"<a href=\"#\">",
+					"10px",
+					"font-family",
+					"section-menu",
+					"11px",
+					"wot",
+					"placeholder-color",
+					"top",
+					"top: -2px;",
+					"icon-brand",
+					"div",
+					"span",
+					"44px",
+					".logo",
+					"LucidaGrandeUI",
+					"hi-img",
+					"span",
+					"133333333",
+					"8",
+					"4px",
+					"8px",
+					"11px",
+					"menu",
+					"menu-line",
+					"88px",
+					"\"",
+					"Method",
+					"content",
+					"subli",
+					"drag",
+					"dragstart",
+					"-100",
+					"http://yujiangshui.com",
+					"$",
+					"key",
+					"s",
+					"sea",
+					"search",
+					"function",
+					"source",
+					"_smq",
+					"vars",
+					"path",
+					"preview",
+					"btn",
+					"d ",
+					"s",
+					"heiti",
+					"item-text",
+					"ite",
+					"menu",
+					"gif",
+					"logo",
+					"images",
+					"album",
+					"#foot",
+					".js",
+					"jsjs",
+					"j's",
+					"#foot",
+					"#footer",
+					"btn-colorred",
+					"nav-new",
+					"pro-wrap",
+					"pro-item",
+					"span",
+					"single-elise-16_files",
+					"single-elise-interior_files",
+					"single-elise-options_files",
+					"menu .sm-links",
+					"pro-title",
+					"div",
+					"span",
+					"h2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Microsoft YaHei",
+					"Microsoft Yahei",
+					"emptyerror",
+					"empty",
+					"timeline-content2.jpg",
+					"konw-more"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/yujiangshui/test/react/webpack"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/yujiangshui/test/react/webpack/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 641,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										549,
+										549
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 51.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/yujiangshui/test/react/webpack/webpack.config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 370,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										78,
+										78
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/yujiangshui/test/react/webpack/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 105,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										82,
+										82
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/yujiangshui/test/react/webpack/logo.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 211,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										211,
+										211
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/yujiangshui/test/react/webpack/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 175,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										136,
+										136
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"is_xml": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/yujiangshui/test/react/webpack/logo.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/CSS/CSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 104.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"pinned_build_system": "",
+			"position": "0 40 0 1240 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"appvy",
+						"node_modules/mongodb/node_modules/bson/node_modules/nan/appveyor.yml"
+					],
+					[
+						"glo",
+						"js/global.js"
+					],
+					[
+						"",
+						"bit/fashion-vc-v2-html/js/global.js"
+					],
+					[
+						"sc",
+						"/Users/yujiangshui/dev/jack/html/scss/_custom.scss"
+					],
+					[
+						"scs",
+						"/Users/yujiangshui/dev/jack/html/style.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"meizhuang",
+						"~/dev/projects/meizhuang.sublime-project"
+					],
+					[
+						"",
+						"~/dev/projects/hualiji.sublime-project"
+					],
+					[
+						"hua",
+						"~/dev/projects/huawei.sublime-project"
+					],
+					[
+						"su",
+						"~/Desktop/sublimemiji.sublime-workspace"
+					],
+					[
+						"p",
+						"~/git/smsGateway.sublime-workspace"
+					],
+					[
+						"po",
+						"~/Sites/polymer/polymer.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 170.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 188,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"block"
+					],
+					[
+						"ti",
+						"ti:-	text-indent:-"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"prot",
+						"prototype"
+					],
+					[
+						"slid",
+						"slideDown"
+					],
+					[
+						"ova",
+						"ovx-a	overflow-x: auto;"
+					],
+					[
+						"bgpo",
+						"background-position"
+					],
+					[
+						"offset",
+						"offsetTop	(?)"
+					],
+					[
+						"offtop",
+						"offsetTop	(?)"
+					],
+					[
+						"cyp",
+						"cypp_pp"
+					],
+					[
+						"ste-d",
+						"step-div"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"h",
+						"hidden"
+					],
+					[
+						"anim",
+						"animate	.animate()"
+					],
+					[
+						"ov",
+						"ovx	overflow-x: ${1:hidden};"
+					],
+					[
+						"httprequest",
+						"http.request(options, cb);"
+					],
+					[
+						"borco",
+						"border-color"
+					],
+					[
+						"fr",
+						"fr	Function"
+					],
+					[
+						"bor",
+						"border"
+					],
+					[
+						"oldInter",
+						"oldInterface"
+					],
+					[
+						"di",
+						"d-i	display: inline;"
+					],
+					[
+						"data-u",
+						"data-rules"
+					],
+					[
+						"CO",
+						"color"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"ich",
+						"icheckbox-block"
+					],
+					[
+						"each",
+						"each	.each()"
+					],
+					[
+						"f",
+						"f	Anonymous Function"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"next",
+						"next	.next"
+					],
+					[
+						"ex",
+						"excelObj"
+					],
+					[
+						"Mo",
+						"motlowdregular"
+					],
+					[
+						"pre-",
+						"pre-menu-item"
+					],
+					[
+						"searfi",
+						"searchFilters"
+					],
+					[
+						"lsy",
+						"list-style-type"
+					],
+					[
+						"mic",
+						"Microsoft"
+					],
+					[
+						"touc",
+						"touchstart"
+					],
+					[
+						"sim",
+						"Simsun"
+					],
+					[
+						"tal",
+						"ta-l	text-align: left;"
+					],
+					[
+						"re",
+						"repeat-x"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"borderco",
+						"border-color"
+					],
+					[
+						"v",
+						"visibility"
+					],
+					[
+						"lsp",
+						"letter-spacing"
+					],
+					[
+						"mah",
+						"max-height"
+					],
+					[
+						"y",
+						"YYHdata"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"e",
+						"e3e3e3"
+					],
+					[
+						"bg",
+						"background"
+					],
+					[
+						"bb",
+						"border-bottom"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"fs",
+						"font-size"
+					],
+					[
+						"tall",
+						"table-layout"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "pi",
+				"selected_items":
+				[
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"fj",
+						"Format: Javascript"
+					],
+					[
+						"sj",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"scsss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"scs",
+						"Set Syntax: CSS"
+					],
+					[
+						"td",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"pr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pl",
+						"Package Control: List Packages"
+					],
+					[
+						"tsd",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
+					[
+						"sjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sh",
+						"Set Syntax: HTML"
+					],
+					[
+						"pjf",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"fjs",
+						"Format: Javascript"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show All Errors"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"sjso",
+						"Set Syntax: JSON"
+					],
+					[
+						"fo",
+						"Format: Javascript"
+					],
+					[
+						"pro",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"smk",
+						"Set Syntax: Markdown"
+					],
+					[
+						"git",
+						"Git: Status"
+					],
+					[
+						"Snippet: ",
+						"Snippet: if … else"
+					],
+					[
+						"gitsta",
+						"Git: Status"
+					],
+					[
+						"git: sta",
+						"Git: Status"
+					],
+					[
+						"sc",
+						"Set Syntax: CSS"
+					],
+					[
+						"",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"s",
+						"Set Syntax: Markdown"
+					],
+					[
+						"SJ",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"s c",
+						"Set Syntax: CSS"
+					],
+					[
+						"s c s",
+						"Set Syntax: CSS"
+					],
+					[
+						"SCS",
+						"Set Syntax: CSS"
+					],
+					[
+						"j s j",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"sjavs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sjav",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"se t",
+						"Set Syntax: Textile"
+					],
+					[
+						"sht",
+						"Set Syntax: HTML"
+					],
+					[
+						"shtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sjson",
+						"Set Syntax: JSON"
+					],
+					[
+						"sx",
+						"Set Syntax: XTpl"
+					],
+					[
+						"shtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"sxtpl",
+						"Set Syntax: XTpl"
+					],
+					[
+						"sxt",
+						"Set Syntax: XTpl"
+					],
+					[
+						"sxtp",
+						"Set Syntax: XTpl"
+					],
+					[
+						"p l",
+						"Package Control: List Packages"
+					],
+					[
+						"p c",
+						"Package Control: Install Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"shm",
+						"Set Syntax: HTML"
+					],
+					[
+						"sh m",
+						"Set Syntax: HTML"
+					],
+					[
+						"sthml",
+						"Set Syntax: HTML"
+					],
+					[
+						"sh t",
+						"Set Syntax: HTML"
+					],
+					[
+						"sj a",
+						"Set Syntax: Java"
+					],
+					[
+						"sjavsc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sjava",
+						"Set Syntax: Java"
+					],
+					[
+						"shml",
+						"Set Syntax: HTML"
+					],
+					[
+						"scss",
+						"Set Syntax: CSS"
+					],
+					[
+						"csc",
+						"Convert Case: Swap Case"
+					],
+					[
+						"cs",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s c s s",
+						"Set Syntax: CSS"
+					],
+					[
+						"c s",
+						"Convert Case: Swap Case"
+					],
+					[
+						"s j s",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ssc",
+						"Set Syntax: C"
+					],
+					[
+						"s java s",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"se j",
+						"Set Syntax: JSON"
+					],
+					[
+						"mpcc",
+						"Markdown Preview: Python Markdown: Copy to Clipboard"
+					],
+					[
+						"mpc",
+						"Markdown Preview: Open Markdown Cheat sheet"
+					],
+					[
+						"mpb",
+						"Markdown Preview: Python Markdown: Preview in Browser"
+					],
+					[
+						"smd",
+						"Set Syntax: Markdown"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 159.0,
+				"history":
+				[
+					"print a",
+					"a = 1",
+					"var a = 1;",
+					"python",
+					"-h",
+					"l",
+					"help()",
+					"help",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"-h",
+					"h",
+					"help",
+					"console"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/yujiangshui/test/bleeding-edge-sample-app"
+			],
+			"file_history":
+			[
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/yujiangshui/bit/huawei/style.css",
+				"/Users/yujiangshui/bit/huawei/scss/_custom.scss",
+				"/Users/yujiangshui/bit/appdpm2/html/index.html",
+				"/Users/yujiangshui/bit/appdpm2/html/cat.html",
+				"/Users/yujiangshui/bit/appdpm2/scss/_var.scss",
+				"/Users/yujiangshui/bit/appdpm2/scss/_flexslider.scss",
+				"/Users/yujiangshui/bit/appdpm2/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/style.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/index.html",
+				"/Users/yujiangshui/dev/hualizhi/html/single.html",
+				"/Users/yujiangshui/dev/hualizhi/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/js/global.js",
+				"/Users/yujiangshui/Desktop/global.js",
+				"/Users/yujiangshui/dev/hualizhi/style.css",
+				"/Users/yujiangshui/Desktop/style.css",
+				"/Users/yujiangshui/dev/hualizhi/scss/_var.scss",
+				"/Users/yujiangshui/Desktop/hualizhi/style.css",
+				"/Users/yujiangshui/git/ysass/scss/_custom.scss",
+				"/Users/yujiangshui/dev/hualizhi/package.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript Snippets/vanilla.console_log.sublime-snippet",
+				"/Users/yujiangshui/dev/hualizhi/html/brand.html",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/yujiangshui/dev/hualizhi/scss/_typo.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/zhuanti.html",
+				"/Users/yujiangshui/dev/hualizhi/scss/_flexslider.scss",
+				"/Users/yujiangshui/dev/hualizhi/html/cat.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt/lib/grunt/help.js",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Emmet/emmet/snippets.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/SCSS/snippets/@for.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/SCSS/SCSS.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Emmet/emmet/pyv8loader.py",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/yujiangshui/Desktop/sublime bk/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/float_left.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/bottom_auto.tmSnippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Sass/Snippets/float.tmSnippet",
+				"/Users/yujiangshui/bit/ep/html/index.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-connect/node_modules/portscanner/node_modules/async/test/test.html",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-connect/node_modules/portscanner/lib/portscanner.js",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/build/prefix-source-map.jsm",
+				"/Users/yujiangshui/dev/hualizhi/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/zlib-browserify/node_modules/tape/test/plan_optional.js",
+				"/Users/yujiangshui/dev/meizhuang/scss/_custom.scss",
+				"/Users/yujiangshui/Desktop/meizhuang/js/global.js",
+				"/Users/yujiangshui/dev/meizhuang/js/global.js",
+				"/Users/yujiangshui/dev/meizhuang/html/index.html",
+				"/Users/yujiangshui/dev/meizhuang/html/post.html",
+				"/Users/yujiangshui/dev/meizhuang/scss/_flexslider.scss",
+				"/Users/yujiangshui/dev/meizhuang/html/test.html",
+				"/Users/yujiangshui/Desktop/iscroll-master/demos/simple/index.html",
+				"/Users/yujiangshui/dev/meizhuang/js/plugins/hammer.min.js",
+				"/Users/yujiangshui/dev/meizhuang/scss/_var.scss",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/if.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/if-___-else.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/function.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/function-(fun).sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/for-()-{}.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/for-()-{}-(faster).sublime-snippet",
+				"/Users/yujiangshui/git/ysass/js/global.js",
+				"/Users/yujiangshui/Desktop/in.html",
+				"/Users/yujiangshui/dev/meizhuang/style.scss",
+				"/Users/yujiangshui/dev/heroku/index.html",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript/Object-Method.sublime-snippet",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Tag/Close Tag On Slash/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/dev/projects/w3cre.sublime-project",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+				"/Users/yujiangshui/Desktop/jquery-1.11.2.min.js",
+				"/Users/yujiangshui/Desktop/sublime bk/Packages/User/Preferences.sublime-settings",
+				"/Users/yujiangshui/git/smsGateway/index.js",
+				"/Users/yujiangshui/git/smsGateway/package.json",
+				"/Users/yujiangshui/git/smsGateway/tests/device.js",
+				"/Users/yujiangshui/git/smsGateway.sublime-project",
+				"/Users/yujiangshui/Desktop/HTML/html.sublime-snippet",
+				"/Users/yujiangshui/dev/sms/node/node_modules/smsgateway/index.js",
+				"/Users/yujiangshui/dev/sms/node/sms.js",
+				"/Users/yujiangshui/bit/fashion-vc-v2-html/style.css",
+				"/Users/yujiangshui/dev/filejs/in.html",
+				"/Users/yujiangshui/dev/sms/sms.php",
+				"/Users/yujiangshui/dev/microblog/routes/index.js",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/yujiangshui/dev/sms/sms.js",
+				"/Users/yujiangshui/dev/sms/node_modules/smsgateway/index.js",
+				"/Users/yujiangshui/dev/sms/package.json",
+				"/Users/yujiangshui/dev/microblog/public/stylesheets/style.css",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/readable-stream/lib/_stream_transform.js",
+				"/Users/yujiangshui/dev/microblog/settings.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/express/LICENSE",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/line_count.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/body-parser/HISTORY.md",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/readable-stream/node_modules/inherits/inherits.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/with/node_modules/uglify-js/node_modules/optimist/example/line_count.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/node_modules/bson/node_modules/nan/appveyor.yml",
+				"/Users/yujiangshui/dev/microblog/app.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/concat-strings.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/lib/mongodb/commands/kill_cursor_command.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/mongodb/lib/mongodb/command_cursor.js",
+				"/Users/yujiangshui/dev/microblog/node_modules/jade/component.json",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/JavaScript & NodeJS Snippets/node-function-req-res-next.sublime-snippet",
+				"/Users/yujiangshui/dev/microblog/views/reg.ejs",
+				"/Users/yujiangshui/dev/microblog/views/index.ejs",
+				"/Users/yujiangshui/bit/huawei/honor6/index.html",
+				"/Users/yujiangshui/dev/microblog/views/error.ejs",
+				"/Users/yujiangshui/dev/microblog/package.json",
+				"/Users/yujiangshui/dev/microblog/models/db.js",
+				"/Users/yujiangshui/dev/microblog/routes/hello.js",
+				"/Users/yujiangshui/.bash_profile",
+				"/Users/yujiangshui/dev/microblog/views/layout.ejs",
+				"/Users/yujiangshui/bit/huawei/gitignore",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/Theme - Brogrammer/brogrammer.tmTheme",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/yujiangshui/Library/Application Support/Sublime Text 3/Packages/User/bh_unicode_properties.cache",
+				"/Users/yujiangshui/Sites/chisha/index/js/router.js",
+				"/Users/yujiangshui/Sites/chisha/index/scss/_custom.scss",
+				"/Users/yujiangshui/Sites/chisha/index/scss/_var.scss",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/pcapp/AppView.js",
+				"/Users/yujiangshui/Sites/chisha/index/templates/pcapp/recipeTemplate.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/models/RecipeModel.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/collections/RecipeCollection.js",
+				"/Users/yujiangshui/bit/huawei/html/home.html",
+				"/Users/yujiangshui/Sites/chisha/index/templates/home/homeTemplate.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/appjs/homejs.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/global/GlobalView.js",
+				"/Users/yujiangshui/Sites/chisha/index/index.html",
+				"/Users/yujiangshui/Sites/chisha/index/js/views/home/HomeView.js",
+				"/Users/yujiangshui/Sites/chisha/index/js/models/recipeModel.js"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 100.0,
+				"where_history":
+				[
+					"/Users/yujiangshui/bit/space,/Users/yujiangshui/bit/space-oldbk-09",
+					"/Users/yujiangshui/bit/space",
+					"/Users/yujiangshui/bit/ep",
+					"/Users/yujiangshui/bit/space/wp-content/themes/space",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pi-cats",
+					".dropdown-menu",
+					".dropdown-menu ",
+					"没有更多",
+					"background-position",
+					"icon-search",
+					"transform",
+					"1000",
+					"data",
+					"'",
+					"i",
+					"Things",
+					"event.preventDefault();",
+					"href",
+					"data-char",
+					".section-menu .section'",
+					"logo",
+					"/li>",
+					"li",
+					"b",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"a",
+					"A",
+					"font-size",
+					"se ma",
+					"<a href=\"#\">",
+					"10px",
+					"font-family",
+					"section-menu",
+					"11px",
+					"wot",
+					"placeholder-color",
+					"top",
+					"top: -2px;",
+					"icon-brand",
+					"div",
+					"span",
+					"44px",
+					".logo",
+					"LucidaGrandeUI",
+					"hi-img",
+					"span",
+					"133333333",
+					"8",
+					"4px",
+					"8px",
+					"11px",
+					"menu",
+					"menu-line",
+					"88px",
+					"\"",
+					"Method",
+					"content",
+					"subli",
+					"drag",
+					"dragstart",
+					"-100",
+					"http://yujiangshui.com",
+					"$",
+					"key",
+					"s",
+					"sea",
+					"search",
+					"function",
+					"source",
+					"_smq",
+					"vars",
+					"path",
+					"preview",
+					"btn",
+					"d ",
+					"s",
+					"heiti",
+					"item-text",
+					"ite",
+					"menu",
+					"gif",
+					"logo",
+					"images",
+					"album",
+					"#foot",
+					".js",
+					"jsjs",
+					"j's",
+					"#foot",
+					"#footer",
+					"btn-colorred",
+					"nav-new",
+					"pro-wrap",
+					"pro-item",
+					"span",
+					"single-elise-16_files",
+					"single-elise-interior_files",
+					"single-elise-options_files",
+					"menu .sm-links",
+					"pro-title",
+					"div",
+					"span",
+					"h2"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Microsoft YaHei",
+					"Microsoft Yahei",
+					"emptyerror",
+					"empty",
+					"timeline-content2.jpg",
+					"konw-more"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/yujiangshui/test/bleeding-edge-sample-app"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 104.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"pinned_build_system": "",
+			"position": "0 40 0 1240 777 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"appvy",
+						"node_modules/mongodb/node_modules/bson/node_modules/nan/appveyor.yml"
+					],
+					[
+						"glo",
+						"js/global.js"
+					],
+					[
+						"",
+						"bit/fashion-vc-v2-html/js/global.js"
+					],
+					[
+						"sc",
+						"/Users/yujiangshui/dev/jack/html/scss/_custom.scss"
+					],
+					[
+						"scs",
+						"/Users/yujiangshui/dev/jack/html/style.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"meizhuang",
+						"~/dev/projects/meizhuang.sublime-project"
+					],
+					[
+						"",
+						"~/dev/projects/hualiji.sublime-project"
+					],
+					[
+						"hua",
+						"~/dev/projects/huawei.sublime-project"
+					],
+					[
+						"su",
+						"~/Desktop/sublimemiji.sublime-workspace"
+					],
+					[
+						"p",
+						"~/git/smsGateway.sublime-workspace"
+					],
+					[
+						"po",
+						"~/Sites/polymer/polymer.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 170.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 190,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/yujiangshui/dev/projects/hualizhi.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/wirterlist.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/huawei.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/bishe.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/fbb.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/babynas.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/vhiphopmobile.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/vhiphop.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/appdp.sublime-workspace",
+			"/Users/yujiangshui/bit/vhiphop/scss/babynas.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/yokky.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/yogo.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/gbk-killer.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/bishestyle.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/dazhong.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/yjsblog.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/meizhuang.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/hualiji.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/bookmark.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/jupe.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/hexo.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/jiangshui-simple.sublime-workspace",
+			"/Users/yujiangshui/dev/projects/w3cre.sublime-workspace"
+		]
+	}
+}

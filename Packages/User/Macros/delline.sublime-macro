@@ -1,0 +1,16 @@
+[
+	{
+		"args":
+		{
+			"to": "eol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+		},
+		"command": "run_macro_file"
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{ "keys": ["alt+super+p"], "command": "autoprefixer" },
+	{ "keys": ["super+shift+;"], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/js-);.sublime-macro"} },
+	{ "keys": ["super+;"], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/js-);no.sublime-macro"} },
+	{ "keys": ["super+'"], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/huanhang.sublime-macro"} },
+	{ "keys": ["super+0"], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/delline.sublime-macro"} },
+	{ "keys": ["super+9"], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/threeline.sublime-macro"} },
+	{
+		"keys": ["super+alt+right"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.66, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+	},
+	{
+		"keys": ["super+alt+left"],
+		"command": "set_layout",
+		"args":
+		{
+			"cols": [0.0, 0.33, 1.0],
+			"rows": [0.0, 1.0],
+			"cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+		}
+	}
+]
