@@ -1300,33 +1300,6 @@
 						"buffer_size": 1084,
 						"line_ending": "Unix"
 					}
-				},
-				{
-					"file": "/Users/yize/workspace/g/alinwmobile/tingle/src/components/Layer/Layer.js",
-					"settings":
-					{
-						"buffer_size": 3867,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": ".tDatepicker\n    -webkit-user-select: none\n    user-select: none\n    height: 462px\n    width: 100%\n    background: #e6e6e6\n    color: #666\n    min-width: 320px\n\n    .tInvalid\n        color: #ccc;\n    .tNow\n        color: #fff;\n    .tSelected\n        color: #999;\n    .tYear\n        text-align: center\n        font-size: 24px\n        padding: 15px 0\n    .tTool\n        text-align: center\n        padding: 5px 15px 15px\n        position: relative\n\n        i\n            display: inline-block\n            height: 3px\n            width: 24px\n            background: #666\n            position: absolute\n            top: 15px\n        .tPrev\n            left: 10%\n            span\n                left: -10px;\n        .tNext\n            right: 10%\n            span\n                right: -10px;\n        .tPrev span, .tNext span\n            display: inline-block\n            width: 40px\n            height: 30px\n            position: absolute\n            top: -15px\n            z-index: 1\n        .tPrev:before, .tPrev:after, .tNext:before, .tNext:after\n            content: ''\n            display: inline-block\n            width: 14px\n            height: 3px\n            background: #666\n            position: absolute\n        .tPrev:before, .tPrev:after\n            left: 0\n        .tNext:before, .tNext:after\n            right: 0\n        .tPrev:before\n            top: 1px\n            -webkit-transform-origin: 0 1.5px\n            transform-origin: 0 1.5px\n            -webkit-transform: rotate(-45deg)\n            transform: rotate(-45deg)\n        .tPrev:after\n            top: -1px\n            -webkit-transform-origin: 0 1.5px\n            transform-origin: 0 2px\n            -webkit-transform: rotate(45deg)\n            transform: rotate(45deg)\n        .tNext:before\n            top: 1px\n            -webkit-transform-origin: 100% 1.5px\n            transform-origin: 100% 2px\n            -webkit-transform: rotate(45deg)\n            transform: rotate(45deg)\n        .tNext:after\n            top: -1px\n            -webkit-transform-origin: 100% 1.5px\n            transform-origin: 100% 2px\n            -webkit-transform: rotate(-45deg)\n            transform: rotate(-45deg)\n    .tMonthText\n        font-size: 20px\n    .tWeek\n        padding: 15px 15px 0\n        text-align: center\n    .tMonth\n        padding: 15px\n        > div > div\n            text-align: center\n            height: 40px\n            line-height: 40px\n    .tCancel\n        position: absolute\n        bottom: 0\n        left: 0\n        padding: 10px\n\n.tMask\n    height: 100%\n    width: 100%\n    position: fixed\n    top: 0\n    left: 0\n    background: #000\n    opacity: 0.2\n    z-index: 19",
-					"file": "/Users/yize/workspace/g/alinwmobile/tingle/src/components/DatePicker/Datepicker.styl",
-					"file_size": 2688,
-					"file_write_time": 130812497920000000,
-					"settings":
-					{
-						"buffer_size": 2651,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/yize/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 889,
-						"line_ending": "Unix"
-					}
 				}
 			],
 			"build_system": "",
@@ -1337,9 +1310,17 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "d",
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"delt",
+						"Trailing Spaces: Delete Trailing Spaces"
+					],
 					[
 						"d",
 						"Trailing Spaces: Delete Trailing Spaces"
@@ -1353,20 +1334,12 @@
 						"Set Syntax: Diff"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"diff",
 						"Set Syntax: Diff"
 					],
 					[
 						"intall",
 						"Package Control: Install Package"
-					],
-					[
-						"delt",
-						"Trailing Spaces: Delete Trailing Spaces"
 					],
 					[
 						"prejson",
@@ -1689,6 +1662,7 @@
 				"/Users/yize/workspace/g/alinwmobile/tingle",
 				"/Users/yize/workspace/g/alinwmobile/tingle/src",
 				"/Users/yize/workspace/g/alinwmobile/tingle/src/components",
+				"/Users/yize/workspace/g/alinwmobile/tingle/src/components/ButtonList",
 				"/Users/yize/workspace/g/alinwmobile/tingle/src/components/DatePicker",
 				"/Users/yize/workspace/g/alinwmobile/tingle/src/components/Dialog",
 				"/Users/yize/workspace/g/alinwmobile/tingle/src/components/HelloWorld",
@@ -1698,10 +1672,14 @@
 			],
 			"file_history":
 			[
+				"/Users/yize/workspace/g/alinwmobile/tingle/src/components/ButtonList/ButtonList.js",
 				"/Users/yize/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/yize/workspace/g/alinwmobile/tingle/index.html",
+				"/Users/yize/workspace/g/alinwmobile/tingle/src/components/Layer/Layer.js",
+				"/Users/yize/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/yize/workspace/g/alinwmobile/tingle/src/components/DatePicker/Datepicker.styl",
 				"/Users/yize/workspace/g/alinwmobile/tingle/lib/react.js",
 				"/Users/yize/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/yize/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/Users/yize/workspace/g/alinwmobile/tingle/lib/fastclick.js",
 				"/Users/yize/workspace/g/alinwmobile/tingle/src/examples/PopDemo.js",
 				"/Users/yize/workspace/g/alinwmobile/tingle/src/components/Pop/Pop.js",
@@ -1821,11 +1799,7 @@
 				"/Users/yujiangshui/git/smsGateway/index.js",
 				"/Users/yujiangshui/git/smsGateway/package.json",
 				"/Users/yujiangshui/git/smsGateway/tests/device.js",
-				"/Users/yujiangshui/git/smsGateway.sublime-project",
-				"/Users/yujiangshui/Desktop/HTML/html.sublime-snippet",
-				"/Users/yujiangshui/dev/sms/node/node_modules/smsgateway/index.js",
-				"/Users/yujiangshui/dev/sms/node/sms.js",
-				"/Users/yujiangshui/bit/fashion-vc-v2-html/style.css"
+				"/Users/yujiangshui/git/smsGateway.sublime-project"
 			],
 			"find":
 			{
@@ -1848,6 +1822,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"default_line_ending",
 					"tabs",
 					"translate_tabs_to_spaces",
 					"createClass",
@@ -1974,8 +1949,7 @@
 					"images",
 					"album",
 					"#foot",
-					".js",
-					"jsjs"
+					".js"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2006,7 +1980,7 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -2022,8 +1996,8 @@
 								"selection":
 								[
 									[
-										652,
-										652
+										487,
+										487
 									]
 								],
 								"settings":
@@ -2089,280 +2063,11 @@
 									],
 									"origin_encoding": "ASCII",
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 479.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/yize/workspace/g/alinwmobile/tingle/src/components/Layer/Layer.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3867,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3328,
-										3328
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1998.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/yize/workspace/g/alinwmobile/tingle/src/components/DatePicker/Datepicker.styl",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2651,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										160,
-										160
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/yize/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 889,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										518,
-										522
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 662.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,

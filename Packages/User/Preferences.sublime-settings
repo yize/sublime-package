@@ -5,7 +5,9 @@
 		"jsx"
 	],
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin",
-	"color_scheme": "Packages/User/SublimeLinter/Sanakan (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Big Duo (SL).tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
@@ -43,8 +45,8 @@
 	],
 	"scroll_past_end": true,
 	"shift_tab_unindent": true,
-	// "spell_check": true,
 	"terminal": "iterm2",
 	"theme": "Brogrammer.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
 }
